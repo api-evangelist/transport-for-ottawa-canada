@@ -1,0 +1,32 @@
+aid: transport-for-ottawa-canada
+name: Transport for Ottawa, Canada
+description: "OC Transpo API"
+url: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Ottawa, Canada
+    description: "OC Transpo API"
+    humanURL: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
+    baseURL: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
+common:
+  - type: Website
+    url: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
