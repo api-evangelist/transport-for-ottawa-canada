@@ -39,7 +39,6 @@ apis:
   - name: Transport for Ottawa, Canada
     description: "OC Transpo API"
     humanURL: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
-    baseURL: https://www.octranspo.com/en/plan-your-trip/travel-tools/developers
     tags:
       - Transportation
     properties:
